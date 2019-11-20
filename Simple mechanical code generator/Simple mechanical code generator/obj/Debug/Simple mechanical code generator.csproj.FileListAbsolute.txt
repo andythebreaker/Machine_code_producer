@@ -1,0 +1,10 @@
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\obj\Debug\Simple mechanical code generator.csprojAssemblyReference.cache
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\obj\Debug\Simple_mechanical_code_generator.Form1.resources
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\obj\Debug\Simple_mechanical_code_generator.Properties.Resources.resources
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\obj\Debug\Simple mechanical code generator.csproj.GenerateResource.cache
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\obj\Debug\Simple mechanical code generator.csproj.CoreCompileInputs.cache
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\bin\Debug\Simple mechanical code generator.exe.config
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\bin\Debug\Simple mechanical code generator.exe
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\bin\Debug\Simple mechanical code generator.pdb
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\obj\Debug\Simple mechanical code generator.exe
+C:\Users\bear\source\repos\Simple mechanical code generator\Simple mechanical code generator\obj\Debug\Simple mechanical code generator.pdb
